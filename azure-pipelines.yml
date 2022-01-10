@@ -11,5 +11,5 @@ pool:
 
 steps:
 - script: |
-    make
+    mingw32-make.exe
   displayName: 'make'
