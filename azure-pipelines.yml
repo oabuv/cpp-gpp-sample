@@ -7,8 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Azure Pipelines
-  vmImage: ubuntu-18.04
+  Baopool
 
 steps:
 - script: |
