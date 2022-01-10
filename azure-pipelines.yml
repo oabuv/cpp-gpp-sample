@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: Baopool
+  Baopool
 
 steps:
 - script: |
